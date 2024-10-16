@@ -25,7 +25,7 @@ Here are the technologies used in this project.
 ![Posts](https://github.com/Douglas-Rodrigues1988/frontend-mundo-invertido/blob/main/assets/images/fim3.png)
 
 ## Links
-  - Site: https://douglas-rodrigues1988.github.io/desafio-jogo-da-memoria/
+  - Site: https://douglas-rodrigues1988.github.io/frontend-mundo-invertido/
   - Repository: https://github.com/Douglas-Rodrigues1988/frontend-mundo-invertido
     - In case of sensitive bugs such as security vulnerabilities, please contact us
       dlorodriguesweb3@gmail.com directly instead of using the issue tracker. We value your effort
